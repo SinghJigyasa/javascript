@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+.box{
+    border: 2px solid black;
+    height: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.circle{
+    border-radius: 50%;
+    border: 1px solid black ;
+    height: 200px;
+    width: 200px;
+}
